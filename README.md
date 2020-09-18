@@ -5,7 +5,12 @@ Telegram Bot to send  picturest from Telegram chats to Google Drive.
 The bot that is uploaded to repo will send photos to my Drive. To send it to Drive of your choosing, follow the tutorial bellow.
 
 
-To use the bot, you will have to download puthon scripts, libraries and run them from your computer.
+
+
+First of all, delete files "credetials.json" and "token.pickle" from your working directory.
+
+
+To use the bot, you will have to download python scripts, libraries and run them from your computer.
 First, you need to install python itself on your computer. After, you will need any IDE that will run python scripts.
 
 After you have your environment set up, you'll need to download python-telegram-bot library. To dO that, go to your IDE and, in the Python Console type this command: 
