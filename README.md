@@ -3,7 +3,7 @@ Telegram Bot to send  picturest from Telegram chats to Google Drive.
 
 
 The bot that is uploaded to repo will send photos to my Drive. To send it to Drive of your choosing, follow the tutorial bellow.
-
+You will still have to download necessary libraries to run existing bot.
 
 
 
